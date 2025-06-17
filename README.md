@@ -8,7 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/Arifmaulanaazis/Gromacs-Analysis?style=flat-square)](https://github.com/Arifmaulanaazis/Gromacs-Analysis/stargazers)  
 [![Forks](https://img.shields.io/github/forks/Arifmaulanaazis/Gromacs-Analysis?style=flat-square)](https://github.com/Arifmaulanaazis/Gromacs-Analysis/network)  
 [![License](https://img.shields.io/github/license/Arifmaulanaazis/Gromacs-Analysis?style=flat-square)](LICENSE)  
-[![Python](https://img.shields.io/pypi/pyversions/3.7?style=flat-square)](https://www.python.org/)  
+[![Python](https://img.shields.io/badge/Python-3.7%2B-yellow)](https://www.python.org/)  
 
 _A desktop application for comprehensive analysis and high-quality visualization of GROMACS molecular dynamics simulation results on Windows._
 
